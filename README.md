@@ -3,7 +3,7 @@
 **Auditora:** Martina Bravi
 
 ## Resumen Ejecutivo
-El presente reporte detalla los resultados de una auditoría de seguridad de "Caja Negra" realizada sobre el entorno web **[TARGET_URL]**. El propósito fue evaluar la postura de seguridad frente a vectores de ataque comunes, identificando exposiciones críticas en la configuración del servidor y vulnerabilidades derivadas de la falta de mantenimiento del software. 
+El presente reporte detalla los resultados de una auditoría de seguridad de "Caja Negra" realizada sobre un entorno web. El propósito fue evaluar la postura de seguridad frente a vectores de ataque comunes, identificando exposiciones críticas en la configuración del servidor y vulnerabilidades derivadas de la falta de mantenimiento del software. 
 
 ## Aviso de Confidencialidad y Ética
 **IMPORTANTE:** Para proteger la integridad de la infraestructura analizada y cumplir con las mejores prácticas de la industria, la URL y las direcciones IP reales han sido anonimizadas. Todos los hallazgos son producto de una auditoría autorizada.
