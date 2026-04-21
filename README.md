@@ -224,11 +224,6 @@ Tras el análisis de vulnerabilidades mediante inteligencia de amenazas, se defi
     * Borrar archivos de instalación legados como `readme.html` para evitar la enumeración de versiones.
     * Implementar un *Web Application Firewall* (WAF) que filtre peticiones dirigidas a la API de usuarios (`wp-json`) para evitar la enumeración de cuentas.
 
-<details>
-  <summary>📸 Click para ver la evidencia (Priorización y Plan de acción)</summary>
-  <img src="URL_DE_TU_IMAGEN_859872" alt="Recomendaciones y plan de acción" />
-</details>
-
 ### 🏁 Conclusión Final
 
 El análisis realizado permitió identificar múltiples vectores de ataque, destacándose vulnerabilidades en plugins desactualizados y exposición de endpoints críticos. Si bien no se logró comprometer el acceso administrativo, la superficie de ataque actual representa un riesgo significativo ante actores maliciosos. Se recomienda la aplicación inmediata de las medidas de mitigación propuestas.
