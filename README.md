@@ -1,4 +1,4 @@
-# Auditoría de Seguridad Web: [TARGET_URL]
+# Auditoría de Seguridad Web
 
 **Auditora:** Martina Bravi
 
